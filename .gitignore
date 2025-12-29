@@ -1,0 +1,5 @@
+# Project exclude paths
+/_048-application/target/
+/_048-application-gluon/target/
+/_048-application-gwt/target/
+/_048-application-openjfx/target/
